@@ -1,0 +1,33 @@
+.hero{
+    background-image: url(/img/banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-text{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+.hero-text span{
+    padding: 4px;
+    color: #ebb34c;
+}
+
+.hero-text span1{
+    padding: 4px;
+    color: #575757;
+}
+
+.title{
+    text-align: center;
+}
+
+.newarrivals span{
+    color: #ebb34c;
+}
+
+.newarrivals span1{
+    color: #575757;;
+}
